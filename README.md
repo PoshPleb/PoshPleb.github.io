@@ -9,6 +9,9 @@ Disclaimer: I am not an expert by any means! If you have some constructive criti
 ### Interests
 - Pester
 	- Infrastructure Testing with Pester
-- Multidimensional Arrays
+- Multidimensional Objects
+	- Arrays
+	- Hashtables
+	- PSCustomObjects
 - Multithreading
 - Getting Started with DSC
