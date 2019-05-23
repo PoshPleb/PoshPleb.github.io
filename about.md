@@ -1,18 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
+Author: Morgan Wilson
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog was created to help me as the author learn by doing and teaching. Hopefully, along the way people that are looking to learn more about PowerShell will also find this useful.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Disclaimer: I am not an expert by any means! If you have some constructive criticism on any topics I go over please provide me with the feedback.
+
+
+You can find the source code for PoshPleb at GitHub:
+[PoshPleb](https://github.com/PoshPleb)
